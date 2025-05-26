@@ -1,6 +1,6 @@
 # HOOKS
 
-#UseSatte
+# UseState
 useState es un hook de React que te permite crear y manejar el estado en un componente funcional.
 
 Antes, solo los componentes de clase podían tener estado, pero ahora, con los hooks como useState, puedes hacerlo en componentes de función.
