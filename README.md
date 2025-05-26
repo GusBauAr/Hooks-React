@@ -6,18 +6,8 @@ useState es un hook de React que te permite crear y manejar el estado en un comp
 Antes, solo los componentes de clase podían tener estado, pero ahora, con los hooks como useState, puedes hacerlo en componentes de función.
 
 # ---------------------------------------------------------
-export const UseState = () => {
-    const [count, setCount] = useState(0)
-  return (
-    <>
-    <h1>useState - Count</h1>
-    <h1>{count}</h1>
-    <button onClick={() => setCount(count + 1)}>
-        click
-    </button>
-    </>
-  )
-}
+
+![alt text](image-1.png)
 
 
 count: Es la variable de estado.
